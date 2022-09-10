@@ -3,6 +3,7 @@
 ## Course Description
 * williamdemeo@gmail.com
 * william.demeo@njit.edu
+* Coursera: Principles of Functional Programming in Scala.
 *  3 credits
 *  3 contact hours
 *  **Prerequisite**. Permission of the instructor. 
