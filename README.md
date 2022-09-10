@@ -1,7 +1,8 @@
 # CS 644. Introduction to Big Data.
 
 ## Course Description
-
+* williamdemeo@gmail.com
+* william.demeo@njit.edu
 *  3 credits
 *  3 contact hours
 *  **Prerequisite**. Permission of the instructor. 
